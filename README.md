@@ -1,7 +1,7 @@
 Cursando Ciências da Computação no IFSP.
 
 # 💻Tecnologias e Linguagens:
-### **Com algum conhecimento:**
+### **Principais**
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java) ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
