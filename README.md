@@ -8,7 +8,8 @@ Cursando Ciências da Computação no IFSP.
 ### **📖Aprendendo:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-layout=compact bg_color=000 border_color=30A3DC title_color=E94D5F text_color=FFF
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <!--
 **Carlos-BNeto/Carlos-BNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
